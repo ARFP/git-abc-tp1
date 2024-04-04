@@ -44,7 +44,7 @@ Rappel : faites obligatoirement un COMMIT et un PUSH après chaque tâche enumé
 
 7. Créer un fichier `cda.txt` contenant le nom du titre professionnel complet.
 
-8. Modifier les fichiers `dwwm.txt` et `cda.txt` et ajouter le texte "La formation est de niveau `X`. où X correspond au niveau de la formation (classification RNCP).
+8. Modifier les fichiers `dwwm.txt` et `cda.txt` et ajouter le texte "La formation est de niveau `X`". où X correspond au niveau de la formation (classification RNCP).
 
 
 > Valider votre travail avec vos formateurs.
