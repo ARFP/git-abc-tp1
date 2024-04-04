@@ -2,7 +2,7 @@
 
 ## Gestion d'un dépôt à plusieurs
 
-Cet exercice doit être réalisé en équipe de 2.
+Cet exercice doit être réalisé individuellement.
 
 
 # Préparation du projet
