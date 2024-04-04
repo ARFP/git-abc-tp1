@@ -7,13 +7,11 @@ Cet exercice doit être réalisé individuellement.
 
 # Préparation du projet
 
-1. Le 1er membre de l'équipe crée un dépôt `public` nommé `tp-git-abc-1`.
+1. Créer un dépôt `public` nommé `tp-git-abc-1`.
 
-2. Le 1er membre invite son binôme en tant que "collaborateur" du dépôt. 
+3. Cloner le dépôt en local sur leur machine.
 
-3. Les 2 membres de l'équipe clonent le dépôt en local sur leur machine.
-
-4. Les 2 membres de l'équipe prennent connaissance des tâches à effectuer (dans la partie "Travail à réaliser" de ce document) et créent les tickets nécessaires.
+4. Prendre connaissance des tâches à effectuer (dans la partie "Travail à réaliser" de ce document) et créer les tickets nécessaires.
 
 # Démarche à adopter 
 
