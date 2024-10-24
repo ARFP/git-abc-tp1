@@ -1,6 +1,6 @@
 # Travaux pratiques GIT & GitHub
 
-## Gestion d'un dépôt à plusieurs
+## Gestion d'un dépôt et gestion des tickets
 
 Cet exercice doit être réalisé individuellement.
 
